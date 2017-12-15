@@ -17,8 +17,8 @@ const App = () => (
 			}
 		}} />
 		<PrivateRoute path='/homepage' component={Homepage} />
-		<Route exact path="/" render={() => (
-			<Redirect to="/login" />
+		<Route exact path='/' render={() => (
+			<Redirect to='/login' />
 		)} />
 
 	</div>
