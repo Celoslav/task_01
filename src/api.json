@@ -1,0 +1,11 @@
+{
+    "isLoggedIn": false,
+    "user": {
+        "email": "",
+        "password": ""
+    },
+    "fieldErrors": {},
+    "people": [],
+    "_loading": false,
+    "_saveStatus": "READY"
+}
